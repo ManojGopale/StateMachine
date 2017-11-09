@@ -1,0 +1,41 @@
+This is the first line
+Base Length: 50 , Base Sum: 1014885.0
+State0: 13 , State1: 37
+Iteration 1 complete
+
+Base Length: 64 , Base Sum: 1008773.0
+State0: 9 , State1: 55
+Iteration 2 completed
+
+Base Length: 69 , Base Sum: 1004735.0
+State0: 8 , State1: 61
+Iteration 3 completed
+
+Base Length: 52 , Base Sum: 1010335.0
+State0: 12 , State1: 40
+Iteration 4 completed
+
+Base Length: 52 , Base Sum: 1004531.0
+State0: 12 , State1: 40
+Iteration 5 completed
+
+Base Length: 68 , Base Sum: 1008585.0
+State0: 8 , State1: 60
+Iteration 6 completed
+
+Base Length: 60 , Base Sum: 1006955.0
+State0: 10 , State1: 50
+Iteration 7 completed
+
+Base Length: 40 , Base Sum: 1002711.0
+State0: 15 , State1: 25
+Iteration 8 completed
+
+Base Length: 54 , Base Sum: 1019573.0
+State0: 12 , State1: 42
+Iteration 9 completed
+
+Base Length: 62 , Base Sum: 1019103.0
+State0: 10 , State1: 52
+Iteration 10 completed
+
