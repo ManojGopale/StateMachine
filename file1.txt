@@ -1,41 +1,51 @@
 This is the first line
-Base Length: 50 , Base Sum: 1014885.0
-State0: 13 , State1: 37
+Base Length: 119 , Base Sum: 1000206.0
+State0: 14 , State1: 14 , State2: 41 , Sate3: 50
+PDM: 1.17588014136 , GREEDY: 1.18006014708 , GENERIC: 1.14247237214
 Iteration 1 complete
 
-Base Length: 64 , Base Sum: 1008773.0
-State0: 9 , State1: 55
+Base Length: 135 , Base Sum: 1002709.0
+State0: 13 , State1: 16 , State2: 53 , Sate3: 53
+PDM: 1.17166687894 , GREEDY: 1.16864761168 , GENERIC: 1.12643049322
 Iteration 2 completed
 
-Base Length: 69 , Base Sum: 1004735.0
-State0: 8 , State1: 61
+Base Length: 104 , Base Sum: 1000612.0
+State0: 14 , State1: 16 , State2: 39 , Sate3: 35
+PDM: 1.18033722842 , GREEDY: 1.18159027437 , GENERIC: 1.14627881987
 Iteration 3 completed
 
-Base Length: 52 , Base Sum: 1010335.0
-State0: 12 , State1: 40
+Base Length: 97 , Base Sum: 1048418.0
+State0: 17 , State1: 6 , State2: 37 , Sate3: 37
+PDM: 1.18695727978 , GREEDY: 1.19539682069 , GENERIC: 1.1629873753
 Iteration 4 completed
 
-Base Length: 52 , Base Sum: 1004531.0
-State0: 12 , State1: 40
+Base Length: 132 , Base Sum: 1017929.0
+State0: 14 , State1: 12 , State2: 54 , Sate3: 52
+PDM: 1.17110617428 , GREEDY: 1.16908328519 , GENERIC: 1.13437611091
 Iteration 5 completed
 
-Base Length: 68 , Base Sum: 1008585.0
-State0: 8 , State1: 60
+Base Length: 131 , Base Sum: 1037099.0
+State0: 16 , State1: 4 , State2: 57 , Sate3: 54
+PDM: 1.1730880603 , GREEDY: 1.17836893857 , GENERIC: 1.15154916879
 Iteration 6 completed
 
-Base Length: 60 , Base Sum: 1006955.0
-State0: 10 , State1: 50
+Base Length: 127 , Base Sum: 1010572.0
+State0: 13 , State1: 16 , State2: 54 , Sate3: 44
+PDM: 1.17254230366 , GREEDY: 1.16972068759 , GENERIC: 1.13945585135
 Iteration 7 completed
 
-Base Length: 40 , Base Sum: 1002711.0
-State0: 15 , State1: 25
+Base Length: 100 , Base Sum: 1045378.0
+State0: 17 , State1: 7 , State2: 32 , Sate3: 44
+PDM: 1.18491474532 , GREEDY: 1.19315502211 , GENERIC: 1.16734970084
 Iteration 8 completed
 
-Base Length: 54 , Base Sum: 1019573.0
-State0: 12 , State1: 42
+Base Length: 142 , Base Sum: 1014805.0
+State0: 13 , State1: 15 , State2: 57 , Sate3: 57
+PDM: 1.16753088224 , GREEDY: 1.16502842527 , GENERIC: 1.1300623157
 Iteration 9 completed
 
-Base Length: 62 , Base Sum: 1019103.0
-State0: 10 , State1: 52
+Base Length: 138 , Base Sum: 1036776.0
+State0: 14 , State1: 12 , State2: 55 , Sate3: 57
+PDM: 1.17095186088 , GREEDY: 1.17289517685 , GENERIC: 1.13753922451
 Iteration 10 completed
 
