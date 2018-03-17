@@ -1,0 +1,51 @@
+This is the first line
+Base Length: 20 , Base Sum: 102690720.0
+State0: 1 , State1: 5 , State2: 1 , State3: 2, State4: 3 , State5: 1, State6: 7
+TDM: 1.07847980217 , GREEDY: 1.10317150937 , GENERIC: 1.11585540415
+Iteration 1 complete
+
+Base Length: 20 , Base Sum: 104926259.0
+State0: 2 , State1: 2 , State2: 3 , State3: 1, State4: 1 , State5: 3, State6: 8
+TDM: 1.07848499289 , GREEDY: 1.10317124836 , GENERIC: 1.11585650448
+Iteration 2 completed
+
+Base Length: 18 , Base Sum: 100707033.0
+State0: 1 , State1: 1 , State2: 0 , State3: 3, State4: 2 , State5: 4, State6: 7
+TDM: 1.07848729492 , GREEDY: 1.10317410319 , GENERIC: 1.11586862572
+Iteration 3 completed
+
+Base Length: 21 , Base Sum: 105457610.0
+State0: 1 , State1: 4 , State2: 2 , State3: 1, State4: 1 , State5: 3, State6: 9
+TDM: 1.07847800908 , GREEDY: 1.10316825681 , GENERIC: 1.11586418137
+Iteration 4 completed
+
+Base Length: 18 , Base Sum: 100179631.0
+State0: 2 , State1: 1 , State2: 2 , State3: 2, State4: 2 , State5: 3, State6: 6
+TDM: 1.0784869799 , GREEDY: 1.1031788428 , GENERIC: 1.11588120337
+Iteration 5 completed
+
+Base Length: 20 , Base Sum: 100591112.0
+State0: 1 , State1: 6 , State2: 3 , State3: 1, State4: 3 , State5: 1, State6: 5
+TDM: 1.07848152723 , GREEDY: 1.10318227555 , GENERIC: 1.11585939031
+Iteration 6 completed
+
+Base Length: 20 , Base Sum: 104193048.0
+State0: 1 , State1: 1 , State2: 6 , State3: 2, State4: 2 , State5: 2, State6: 6
+TDM: 1.07847980468 , GREEDY: 1.10317431638 , GENERIC: 1.11588973211
+Iteration 7 completed
+
+Base Length: 19 , Base Sum: 103750424.0
+State0: 3 , State1: 3 , State2: 0 , State3: 3, State4: 1 , State5: 2, State6: 7
+TDM: 1.07848706108 , GREEDY: 1.10319023875 , GENERIC: 1.11590638295
+Iteration 8 completed
+
+Base Length: 18 , Base Sum: 101759769.0
+State0: 2 , State1: 3 , State2: 2 , State3: 1, State4: 2 , State5: 5, State6: 3
+TDM: 1.07848741796 , GREEDY: 1.10319356289 , GENERIC: 1.11592589314
+Iteration 9 completed
+
+Base Length: 19 , Base Sum: 102172610.0
+State0: 2 , State1: 6 , State2: 1 , State3: 2, State4: 2 , State5: 3, State6: 3
+TDM: 1.07848820695 , GREEDY: 1.10316026558 , GENERIC: 1.11586347863
+Iteration 10 completed
+
