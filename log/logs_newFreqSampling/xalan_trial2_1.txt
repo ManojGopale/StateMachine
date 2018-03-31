@@ -1,0 +1,11 @@
+This is the first line
+Base Length: 3572 , Base Sum: 100051103.0
+State0: 64(0.0573) , State1: 118(0.0822) , State2: 268(0.0534) , State3: 1228(0.1222), State4: 70(0.0488) , State5: 290(0.1443), State6: 37(0.0295) , State7: 482(0.1439) , State8: 157(0.0938), State9: 42(0.0418) , State10: 714(0.1421), State11: 102(0.0406)
+TDM: 1.1404404242314097 , GREEDY: 1.1712589931914839 , GENERIC: 1.1628669560277023
+Iteration 1 complete
+
+Base Length: 3674 , Base Sum: 100014708.0
+State0: 70(0.0627) , State1: 115(0.0801) , State2: 299(0.0595) , State3: 1273(0.1266), State4: 70(0.0487) , State5: 288(0.1432), State6: 24(0.0191) , State7: 521(0.1554) , State8: 138(0.0823), State9: 33(0.0328) , State10: 733(0.1458), State11: 110(0.0438)
+TDM: 1.1402559760435527 , GREEDY: 1.1705924181696277 , GENERIC: 1.161143276048279
+Iteration 2 completed
+
