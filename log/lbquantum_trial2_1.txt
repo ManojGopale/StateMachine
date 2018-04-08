@@ -1,11 +1,11 @@
 This is the first line
-Base Length: 1424 , Base Sum: 10005797.0
-State0: 250(0.1219) , State1: 263(0.1154) , State2: 232(0.0905) , State3: 227(0.0996), State4: 282(0.0688) , State5: 99(0.0628), State6: 8(0.0472) , State7: 11(0.0966) , State8: 8(0.0312), State9: 9(0.0483) , State10: 12(0.0702), State11: 9(0.0518) , State12: 8(0.0484), State13: 6(0.0474)
-TDM: 1.0642973745061464 , GREEDY: 1.0614497006801753 , GENERIC: 1.053431185312054
+Base Length: 1422 , Base Sum: 10000703.0
+State0: 250(0.1220) , State1: 263(0.1155) , State2: 231(0.0902) , State3: 227(0.0997), State4: 282(0.0688) , State5: 98(0.0622), State6: 8(0.0473) , State7: 11(0.0967) , State8: 8(0.0312), State9: 9(0.0483) , State10: 12(0.0703), State11: 9(0.0518) , State12: 8(0.0484), State13: 6(0.0474)
+TDM: 1.064259403081836 , GREEDY: 1.060475852965603 , GENERIC: 1.051251532091402
 Iteration 1 complete
 
-Base Length: 1482 , Base Sum: 10000682.0
-State0: 240(0.1166) , State1: 277(0.1211) , State2: 250(0.0971) , State3: 243(0.1062), State4: 273(0.0663) , State5: 128(0.0808), State6: 14(0.0823) , State7: 7(0.0612) , State8: 11(0.0427), State9: 8(0.0427) , State10: 8(0.0466), State11: 14(0.0802) , State12: 8(0.0482), State13: 1(0.0079)
-TDM: 1.0633292738190248 , GREEDY: 1.060211226319942 , GENERIC: 1.0505105658399363
+Base Length: 1482 , Base Sum: 10011823.0
+State0: 240(0.1165) , State1: 277(0.1210) , State2: 250(0.0971) , State3: 243(0.1062), State4: 272(0.0660) , State5: 129(0.0814), State6: 14(0.0822) , State7: 7(0.0612) , State8: 11(0.0427), State9: 8(0.0427) , State10: 8(0.0466), State11: 14(0.0802) , State12: 8(0.0482), State13: 1(0.0079)
+TDM: 1.063706658260558 , GREEDY: 1.057437666633608 , GENERIC: 1.0469674426270104
 Iteration 2 completed
 
